@@ -19,7 +19,7 @@ O fluxo realiza as seguintes etapas:
 
 ## Arquitetura da Pipeline
 
-![Diagrama da Arquitetura](./pipeline-cambio.png)
+![Diagrama da Arquitetura](./pipelinecambio.png)
 
 ## Decisões Técnicas
 1. Porque salvar o Json Bruto?
