@@ -33,6 +33,3 @@ Antes de carregar os dados no banco a pipeline realiza validações para evitar 
 - Colunas obrigatórias:
 - Conversão de Tipo
 - Valores Nulos e Inconsistentes
-
-
-##
