@@ -17,7 +17,7 @@ O fluxo realiza as seguintes etapas:
 2. pip install -r requirements.txt
 3. python src/pipeline.py
 
-##Arquitetura da Pipeline
+## Arquitetura da Pipeline
 
 ![Diagrama da Arquitetura](./pipeline-cambio.png)
 
